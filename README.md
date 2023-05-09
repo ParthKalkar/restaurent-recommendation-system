@@ -28,6 +28,14 @@ Yelp Dataset - https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_b
 ## Using K-Means
 ![image](https://user-images.githubusercontent.com/50231750/237042956-ca29acac-7319-407b-9817-2531316ff128.png)
 
+## Testing Prediction
+![image](https://user-images.githubusercontent.com/50231750/237043271-c0a624c7-7dec-4628-be7e-cb846e916346.png)
+
+![image](https://user-images.githubusercontent.com/50231750/237043328-869f9e84-b19a-4651-b158-f360fbb37cc5.png)
+
+![image](https://user-images.githubusercontent.com/50231750/237043442-3585a0be-9791-4022-a626-3f4b0a2761c3.png)
+
+
 ## Contributing
 
 The Restaurant Recommendation System is open for contributions. If you have any ideas or suggestions on how to improve the system, feel free to contribute to the project. The project is under MIT license, so you are free to use and modify it as you see fit.
